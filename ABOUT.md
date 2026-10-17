@@ -1,0 +1,5 @@
+# About kernel-horizon-software-255
+
+Small utility project for testing, docs, and dashboards.
+
+This project is maintained as a practical workspace for development notes, automation helpers, and source code examples.
